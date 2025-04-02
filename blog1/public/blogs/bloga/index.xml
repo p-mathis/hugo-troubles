@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BlogA on My Blogs !</title>
+    <link>http://localhost:1313/blogs/bloga/</link>
+    <description>Recent content in BlogA on My Blogs !</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 31 Mar 2025 17:53:57 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/blogs/bloga/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog A / Chapter 3</title>
+      <link>http://localhost:1313/blogs/bloga/chapter3/</link>
+      <pubDate>Mon, 31 Mar 2025 17:53:57 +0200</pubDate>
+      <guid>http://localhost:1313/blogs/bloga/chapter3/</guid>
+      <description>&lt;h2 id=&#34;part1&#34;&gt;Part1&lt;/h2&gt;&#xA;&lt;p&gt;Haec subinde Constantius audiens et quaedam referente Thalassio doctus, quem eum odisse iam conpererat lege communi, scribens ad Caesarem blandius adiumenta paulatim illi subtraxit, sollicitari se simulans ne, uti est militare otium fere tumultuosum, in eius perniciem conspiraret, solisque scholis iussit esse contentum palatinis et protectorum cum Scutariis et Gentilibus, et mandabat Domitiano, ex comite largitionum, praefecto ut cum in Syriam venerit, Gallum, quem crebro acciverat, ad Italiam properare blande hortaretur et verecunde.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blog A / Chapter 2</title>
+      <link>http://localhost:1313/blogs/bloga/chapter2/</link>
+      <pubDate>Mon, 31 Mar 2025 17:53:52 +0200</pubDate>
+      <guid>http://localhost:1313/blogs/bloga/chapter2/</guid>
+      <description>&lt;h2 id=&#34;part1&#34;&gt;Part1&lt;/h2&gt;&#xA;&lt;p&gt;Et licet quocumque oculos flexeris feminas adfatim multas spectare cirratas, quibus, si nupsissent, per aetatem ter iam nixus poterat suppetere liberorum, ad usque taedium pedibus pavimenta tergentes iactari volucriter gyris, dum exprimunt innumera simulacra, quae finxere fabulae theatrales.&lt;/p&gt;&#xA;&lt;h2 id=&#34;part2&#34;&gt;Part2&lt;/h2&gt;&#xA;&lt;p&gt;Quanta autem vis amicitiae sit, ex hoc intellegi maxime potest, quod ex infinita societate generis humani, quam conciliavit ipsa natura, ita contracta res est et adducta in angustum ut omnis caritas aut inter duos aut inter paucos iungeretur.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blog A / Chapter 1</title>
+      <link>http://localhost:1313/blogs/bloga/chapter1/</link>
+      <pubDate>Mon, 31 Mar 2025 17:51:06 +0200</pubDate>
+      <guid>http://localhost:1313/blogs/bloga/chapter1/</guid>
+      <description>&lt;h2 id=&#34;part1&#34;&gt;Part1&lt;/h2&gt;&#xA;&lt;p&gt;Quam ob rem id primum videamus, si placet, quatenus amor in amicitia progredi debeat. Numne, si Coriolanus habuit amicos, ferre contra patriam arma illi cum Coriolano debuerunt? num Vecellinum amici regnum adpetentem, num Maelium debuerunt iuvare?&lt;/p&gt;&#xA;&lt;h2 id=&#34;part2&#34;&gt;Part2&lt;/h2&gt;&#xA;&lt;p&gt;Quis enim aut eum diligat quem metuat, aut eum a quo se metui putet? Coluntur tamen simulatione dumtaxat ad tempus. Quod si forte, ut fit plerumque, ceciderunt, tum intellegitur quam fuerint inopes amicorum. Quod Tarquinium dixisse ferunt, tum exsulantem se intellexisse quos fidos amicos habuisset, quos infidos, cum iam neutris gratiam referre posset.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,15 @@
+{{ define "main" }}
+  <main aria-role="main">
+    <h2>SINGLE OF LAYOUTS/BLOGS</h2>
+    {{ if .Page.Title }}<h1 >{{ .Page.Title }}</h1>
+    {{ end }}
+    {{ $srcString := .Page.Params.photo }}
+    {{ $alt := .Page.Params.alt}}
+    {{- $imgBase := "images/" -}} 
+    {{- $src := resources.GetMatch (printf "%s%s" $imgBase $srcString) -}}
+    <img style="float:left;width:50%;height:50%;object-fit:cover;" src="{{ $src.RelPermalink }}" alt="{{ $alt }}" />
+    <h2 style="text-transform: capitalize;">{{ .Page.Params.photoTitle }}</h2>
+    <p>{{ .Page.Params.photoComment }}</p>
+    {{ .Content }}
+  </main>
+{{ end }}

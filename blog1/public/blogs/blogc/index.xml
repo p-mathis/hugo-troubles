@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BlogC on My Blogs !</title>
+    <link>http://localhost:1313/blogs/blogc/</link>
+    <description>Recent content in BlogC on My Blogs !</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 31 Mar 2025 17:55:03 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/blogs/blogc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog C / Chapter 3</title>
+      <link>http://localhost:1313/blogs/blogc/chapter3/</link>
+      <pubDate>Mon, 31 Mar 2025 17:55:03 +0200</pubDate>
+      <guid>http://localhost:1313/blogs/blogc/chapter3/</guid>
+      <description>&lt;h2 id=&#34;part1&#34;&gt;Part1&lt;/h2&gt;&#xA;&lt;p&gt;Quam ob rem id primum videamus, si placet, quatenus amor in amicitia progredi debeat. Numne, si Coriolanus habuit amicos, ferre contra patriam arma illi cum Coriolano debuerunt? num Vecellinum amici regnum adpetentem, num Maelium debuerunt iuvare?&lt;/p&gt;&#xA;&lt;h2 id=&#34;part2&#34;&gt;Part2&lt;/h2&gt;&#xA;&lt;p&gt;Quibus ita sceleste patratis Paulus cruore perfusus reversusque ad principis castra multos coopertos paene catenis adduxit in squalorem deiectos atque maestitiam, quorum adventu intendebantur eculei uncosque parabat carnifex et tormenta. et ex is proscripti sunt plures actique in exilium alii, non nullos gladii consumpsere poenales. nec enim quisquam facile meminit sub Constantio, ubi susurro tenus haec movebantur, quemquam absolutum.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blog C / Chapter 2</title>
+      <link>http://localhost:1313/blogs/blogc/chapter2/</link>
+      <pubDate>Mon, 31 Mar 2025 17:54:57 +0200</pubDate>
+      <guid>http://localhost:1313/blogs/blogc/chapter2/</guid>
+      <description>&lt;h2 id=&#34;part1&#34;&gt;Part1&lt;/h2&gt;&#xA;&lt;p&gt;Procedente igitur mox tempore cum adventicium nihil inveniretur, relicta ora maritima in Lycaoniam adnexam Isauriae se contulerunt ibique densis intersaepientes itinera praetenturis provincialium et viatorum opibus pascebantur.&lt;/p&gt;&#xA;&lt;h2 id=&#34;part2&#34;&gt;Part2&lt;/h2&gt;&#xA;&lt;p&gt;Ultima Syriarum est Palaestina per intervalla magna protenta, cultis abundans terris et nitidis et civitates habens quasdam egregias, nullam nulli cedentem sed sibi vicissim velut ad perpendiculum aemulas: Caesaream, quam ad honorem Octaviani principis exaedificavit Herodes, et Eleutheropolim et Neapolim itidemque Ascalonem Gazam aevo superiore exstructas.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blog C / Chapter 1</title>
+      <link>http://localhost:1313/blogs/blogc/chapter1/</link>
+      <pubDate>Mon, 31 Mar 2025 17:54:48 +0200</pubDate>
+      <guid>http://localhost:1313/blogs/blogc/chapter1/</guid>
+      <description>&lt;h2 id=&#34;part1&#34;&gt;Part1&lt;/h2&gt;&#xA;&lt;p&gt;Cognitis enim pilatorum caesorumque funeribus nemo deinde ad has stationes appulit navem, sed ut Scironis praerupta letalia declinantes litoribus Cypriis contigui navigabant, quae Isauriae scopulis sunt controversa.&lt;/p&gt;&#xA;&lt;h2 id=&#34;part2&#34;&gt;Part2&lt;/h2&gt;&#xA;&lt;p&gt;Et quoniam apud eos ut in capite mundi morborum acerbitates celsius dominantur, ad quos vel sedandos omnis professio medendi torpescit, excogitatum est adminiculum sospitale nequi amicum perferentem similia videat, additumque est cautionibus paucis remedium aliud satis validum, ut famulos percontatum missos quem ad modum valeant noti hac aegritudine colligati, non ante recipiant domum quam lavacro purgaverint corpus. ita etiam alienis oculis visa metuitur labes.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

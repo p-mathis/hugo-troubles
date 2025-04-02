@@ -1,0 +1,17 @@
+body {
+    color: rgba(247, 18, 197, 0.877);
+    background-color: bisque;
+}
+h1 {
+    color: green;
+    font-size: 40px;
+}
+h2 {
+    font-size: 30px;
+    color: black;
+  }
+  
+  p {
+    font-size: 14px;
+    color: #ff3333;
+  }

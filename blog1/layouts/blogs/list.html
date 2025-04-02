@@ -1,0 +1,23 @@
+{{ define "main" }}
+  {{ $myTitle := "All Blogs !"}}
+
+  <h1 style="text-transform: uppercase;">{{ $myTitle }}</h1>
+
+  {{ .Content }}
+  {{ range .Pages.ByTitle }}
+    {{ $srcString := .Page.Params.photo }}
+
+    {{ $src := .Page.Resources.GetMatch $srcString }}
+
+    {{ $alt := .Page.Params.alt}}
+    <div style="background-color: dimgray;">
+        <h2 style="text-transform: capitalize;"><a class="" href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        <p>{{ .Page.Params.photoTitle }}</p>
+        <p>{{ .Page.Params.photoComment }}</p>
+        <div>
+          <img style="float:left;width:15%;height:15%;object-fit:cover;" src="{{ $src.RelPermalink }}" alt="erreur : {{ $alt }}" /> 
+        </div>
+    </div>   
+
+  {{ end }}
+{{ end }}
