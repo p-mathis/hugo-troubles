@@ -3,7 +3,7 @@ date = '2025-03-31T17:53:57+02:00'
 draft = false
 title = 'Blog A / Chapter 3'
 photo = 'A3.jpg'
-alt = 'A3'
+alt = 'ErreurA3'
 photoTitle = "My Photo A3"
 photoComment = "Comment A3"
 +++
